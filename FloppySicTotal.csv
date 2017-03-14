@@ -1,0 +1,142 @@
+Number;Brand;Capacity;Year on Floppy;Last acces;Oldest file;Format;Content;Usable;Remarque
+1;Sony;1,4MB;;16/06/2000;25/03/1997;dos;h, cpp, exe, bgi, fuz, chr;y;
+2;Sony;1,4MB;juil-94;;;;;n;Pb pas de message erreur 
+3;Sony;1,4MB;;02/06/1997;02/01/1997;dos;pal, mot, exe, tpu, pas;y;
+4;Sony;1,4MB;;;;;;n;Freeze PC Pb pas de message erreur 
+5;Sony;1,4MB;;;;;;n;Freeze PC Pb pas de message erreur 
+6;Sony;1,4MB;févr-95;;;;;n;Frezze Pb pas de message erreur 
+7;Sony;1,4MB;;30/06/2000;25/03/1997;dos;h, cpp, exe, bgi, fuz, chr;y;
+8;Sony;1,4MB;;;;;;n;
+9;Sony;1,4MB;;05/06/1997;08/11/1992;dos;chr, bgi, img, exe, pas, pyr, tpu;y;
+10;Sony;1,4MB;1993;03/11/1999;30/07/1993;dos;com, sys, txt, bak, pas, xls;y;
+11;Sony;1,4MB;;20/02/1995;27/11/1992;dos;bgi, chr, pas, tpu, exe;y;Projet Pascal
+12;Sony;1,4MB;;15/02/2002;22/11/2001;dos;h, cpp, exe, obj;y;Projet Calculette C, jeu loto nb mystere
+13;Sony;1,4MB;;23/02/2005;15/02/2002;dos;exe, obj, txt, cpp, h;y;Projet C inderterminé
+14;Sony;1,4MB;;26/02/2002;21/06/1999;dos;txt, bmp, ico;y;Morceau d'un projet d'appli cryptage
+15;TDK;1,4MB;;15/02/1995;09/03/1993;dos;tpu,  doc, txt, pas, klg;y;Traducteur Kagol -> pascal
+16;TDK;1,4MB;;05/06/1997;08/12/1992;dos;chr, bgi, img, exe, pas, pyr, tpu;y;Projet Pyramide
+17;TDK;1,4MB;;17/01/1997;27/01/1997;dos;bak, txt, exe, pas, tpu, pyr;y;Projet Grammaire langage Pyramide
+18;3M;1,4MB;;26/06/1995;13/11/1993;dos;tpu,  doc, txt, pas, klg, bat, scr, fli;y;Traducteur Kagol -> pascal
+19;3M;1,4MB;;26/06/1993;10/12/1990;dos;exe, pas, bak, lis, txt, tpl, ;y;Traducteur Pyramide ?
+20;BASF;1,4MB;;26/02/2002;24/08/2001;dos;obj, cpp, h, exe;y;Projet Cryptage
+21;BASF;1,4MB;1993;06/02/1986;06/02/1986;dos;pas;y;Fichies pascal
+22;BASF;1,4MB;;19/04/2001;18/04/2001;dos;jpg;y;Photos de Rachid
+23;BASF;1,4MB;;09/06/1997;27/10/1992;dos;tpu, pas, exe, bak, tkt;y;Projet Pyramide
+24;BASF;1,4MB;;;;dos;;n;Erreur accès
+25;BASF;1,4MB;31/05/2000;31/05/2000;25/06/2000;dos;cpp;y;Projet 
+26;BASF;1,4MB;;01/06/2000;04/03/1998;dos;cpp,bak, h, inl;y;Projet compilation
+27;BASF;1,4MB;;09/06/1995;11/03/1993;dos;bgi, tpu, pas, exe, txt, bak;y;Projet traducteur ?
+28;BASF;1,4MB;;14/02/2002;23/01/2002;dos;txt, cpp, obj, exe, h, tds, res, bpr;y;Projet Conjugaison
+29;Verbatim;1,4MB;09/05/1995;09/05/1995;27/10/1992;dos;exe, klg, pas, doc, txt, bak, bgi, chr;y;Traducteur Kagol -> pascal
+30;Verbatim;1,4MB;;30/06/2000;02/03/1998;dos;doc, h, cpp, ide, dsw, mbt, mrt;y;Projet traducteur inachevé
+31;Verbatim;1,4MB;;26/06/2000;09/02/1998;dos;dc, cpp, h;y;Projet traduteur Fuzzy -> C
+32;Verbatim;1,4MB;;02/06/1997;31/10/1996;dos;pyr, txt, pas, chr, bgi, tpu , exe;y;Projet Pyramide
+33;Verbatim;1,4MB;;02/06/1997;23/03/1997;dos;exe, pas, psm, dsk, psm, doc;y;Projet Pyramide
+34;Verbatim;1,4MB;;15/03/1993;01/01/1980;dos;pas, bak, lst, cps, dat, com, msg, bin, p;y;Test Pascal
+35;MEMOREX;1,4MB;;26/05/1995;;dos;pas, exe;y;
+36;MAXELL;1,4MB;;09/05/1995;08/12/1992;dos;tpu, txt, exe, doc, txt, chr;y;
+37;MAXELL;1,4MB;;22/02/2002;25/01/2002;dos;txt, cp, exe, h;y;
+38;MAXELL;1,4MB;;31/05/2000;28/05/2000;dos;txt, cp, exe, h, ide;y;
+39;MAXELL;1,4MB;;10/04/2006;05/11/2002;dos;cpp, exe, h, tds, obj;y;
+40;MAXELL;1,4MB;;10/03/1995;08/06/1994;dos;pas, doc, exe, txt, klg;y;
+41;VARIOUS;1,4MB;1997;25/05/1998;11/03/1993;dos;exe, pas doc;y;
+42;VARIOUS;1,4MB;;24/02/2002;17/02/2002;dos;cpp, exe, h, tds, obj;y;
+43;VARIOUS;1,4MB;;;;dos;;n;Plante le lecteur de disquette. Voyant allumé
+44;VARIOUS;1,4MB;;18/05/1993;10/12/1990;dos;img, ltm, bak, exe, pas, tpu, txt;y;
+45;VARIOUS;1,4MB;;14/09/2004;24/09/2003;dos;h, doc;y;Projet Matrix
+46;VARIOUS;1,4MB;;02/06/1996;27/10/1992;dos;pas, pyr, tpu, chr, txt, exe;y;Projet Pyramide
+47;NONAME;1,4MB;;02/06/1997;27/10/1992;dos;cpp, dfm, h, obj, res;y;Projet Histo Morse / Cryptage - décryptage
+48;NONAME;1,4MB;;27/02/2002;26/02/2002;dos;cpp, dfm, h, obj, res;y;Projet calculette / Mastermind
+49;NONAME;1,4MB;;13/09/2004;09/08/2003;dos;doc, h;y;Projet Matrix
+50;NONAME;1,4MB;17/02/1997;26/02/1991;26/02/1991;dos;cpp, exe, h, tds, obj, bmp;y;Projet calculette
+51;NONAME;1,4MB;17/02/1997;17/02/1997;04/01/1980;dos;"arj, pas, pyr, tpu, exe; txt";y;Projet pyramide ?
+52;NONAME;1,4MB;;19/06/1993;29/07/1988;dos;pas, exe, tpu,lis, img, hlp;y;Demo, Bateau
+53;NONAME;1,4MB;;;;;;n;Erreur affiche contenu, incohérence
+54;NONAME;1,4MB;;29/04/1998;03/01/1989;dos;exe, pas, tpu, niv, com, tpl, chr, bgi, sys, bat;y;Gestion clavier ?
+55;NONAME;1,4MB;;20/02/1995;05/01/1995;dos;tpu, dat, exe, doc, dat;y;Kalgol
+56;NONAME;1,4MB;mai-95;09/05/1995;07/10/1994;dos;exe, pas, tpu, klg, doc, men, ttr chr, bgi, sys, bat, bak;y;Multiples projets
+57;NONAME;1,4MB;;05/06/1997;05/01/1980;dos;pas, bak, pyr, tpu, img, txt, doc, bgi, ;y;Projet pyramide ?
+58;NONAME;1,4MB;;02/06/1997;11/03/1993;dos;pas, pyr, tpu, exe, tp, txt, tpl, dsk;y;Projet trad Pyramide
+59;NONAME;1,4MB;;10/03/1995;07/02/1995;dos;pas, txt, exe, tpu, ;y;Projet Kalgol
+60;NONAME;1,4MB;;17/02/1997;17/02/1997;dos;pas, bak, pyr,txt, tpu, doc;y;Projet pyramide ?
+61;NONAME;1,4MB;;19/05/1992;02/02/1988;dos;"chr,;bgi,mak,tpu,ipx, prg, img,exe,bat";y;Projet bateau ?
+62;NONAME;1,4MB;;;;;;n;Pb montage
+63;NONAME;1,4MB;;26/05/1995;21/01/1991;dos;kal, exe, txt, pas;y;Projet Kalgol
+64;NONAME;1,4MB;;20/03/2097;07/03/1997;dos;bak, pyr, exe, pas, tpu;y;Projet inconnu + PB date
+65;NONAME;1,4MB;;;;;;n;Pb montage
+66;NONAME;1,4MB;;27/02/2002;26/02/2002;dos;cpp, h, txt, obj, tds;y;Projet Mastermind
+67;NONAME;1,4MB;;26/02/1991;21/01/1991;dos;cpp, exe, h, tds, obj, bmp;y;projet
+68;NONAME;1,4MB;1993;26/05/1993;02/02/1998;dos;img, ltm, bak, exe, pas, tpu, txt;y;Projet traduction langage
+69;NONAME;1,4MB;1993;;;;;n;Plante le lecteur de disquette. Voyant allumé
+70;NONAME;1,4MB;1995;26/05/1995;11/03/1993;dos;pas, doc, exe, txt, klg, bat;y;Projet Kalgol
+71;NONAME;1,4MB;;03/03/1999;21/10/1994;dos;pas, doc, exe, txt, klg, bat;y;Projet Kalgol
+72;NONAME;1,4MB;;11/03/2002;27/02/2002;dos;cpp, exe, h, obj, bmp, hlp, gid;y;Projet
+73;NONAME;1,4MB;;08/05/1995;18/02/1995;;pas, exe, txt, klg, bat;y;Projet fractale, arbe, listes, chaine, donnees
+74;NONAME;1,4MB;1993;;;;;n;
+75;FUJI FILM;1,4MB;;02/06/1997;11/03/1993;;bak, pas, chr, bgi, img, exe, pyr, tpu, tpl;y;Projet Pyramide
+76;FUJI FILM;1,4MB;1996-1997;17/02/1997;14/01/1997;;txt, tpu, bak, doc, pas, exe;y;Projet Pyramide
+77;FUJI FILM;1,4MB;;01/06/2000;12/03/2000;;cpp, h, bak, osb, dsw, mrt, mbt, ide;y;Projet Fuzzy
+78;FUJI FILM;1,4MB;;;;;;n;Freeze Pb pas de message erreur
+79;FUJI FILM;1,4MB;mai-95;26/05/1995;21/01/1991;;pas, tpu, klg, exe, bgi;y;Projet Kagol
+80;FNAC;1,4MB;;27/02/2002;26/02/2002;dos;tds;y;Projet Conjugaison Pluriel
+81;FNAC;1,4MB;;;;;;n;Plante le lecteur de disquette. Voyant allumé
+82;FNAC;1,4MB;;13/02/1997;13/02/1997;dos;pas, txt, pyr, tpu, exe;y;Projet Pyramide
+83;FNAC;1,4MB;;17/02/1997;06/02/1997;;tpu, txt, exe, doc, txt, chr;y;Projet Pyramide
+84;FNAC;1,4MB;;;;;;n;
+85;FNAC;1,4MB;;19/05/1993;01/02/1992;dos;img, ltm, bak, exe, pas, tpu, txt;y;
+86;MEDIA;1MB;;10/03/1993;25/02/1993;dos;bak, itx, dat, pas;y;Fichier Pascal
+87;MITSUBISHI;1MB;;18/05/1993;15/01/1980;dos;p, img, bak, com, prg, msg, bat;y;Appli Unvirus, appli scan, fichiers turbo
+88;MITSUBISHI;1MB;1993;25/03/1993;03/03/1993;dos;tpu, exe, pas, lis;y;Listal appli
+89;MAXELL;1MB;;16/06/1993;03/03/1993;dos;pas, bak, lst;y;Fichiers trubo ?
+90;MAXELL;1MB;;08/06/1992;01/01/1980;dos;p, dta bak, com, prg, msg, bat, bin, sys;y;Appli Unvirus, appli scan, fichiers turbo
+91;MAXELL;1MB;;09/06/1997;05/07/1991;dos;txt, pas, tpu, sys, pyr, bak, exe;y;Projet Pyramide
+92;FUJI FILM;1MB;;02/03/1991;25/05/1990;dos;exe, bat, ctl;y;Install.exe ?
+93;BASF;1MB;10/05/1993;17/05/1993;09/01/1980;dos;com, txt, fic, sys, bat, pre, bat, lis;y;Projet Bateau, AntiVirus, Turbo
+94;JVC;1MB;févr-92;28/06/1992;01/01/1980;dos;img, pas, pix, ovl, exe, bgi;y;InterPix
+95;3M;1MB;;15/02/1993;09/04/1991;dos;exe, sys, com, tpu, pas, unt, xls, doc, bmp;y;Pinfo
+96;Verbatim;1MB;24/05/1994;25/05/1994;05/01/1980;dos;doc, pas, img, bak, bgi, itx, exe;y;Interpix
+97;Verbatim;1MB;1993;18/05/1993;02/12/1988;dos;bat, sys, com, pas, bak, p, msg, bin;y;AntiVirus + Turbo
+98;Verbatim;1MB;;22/03/1993;19/10/1992;dos;pas, var, itx;y;Fichiers trubo ?
+99;Verbatim;1MB;;03/07/1991;02/12/1988;dos;bat, sys, com, pas, bak, p, msg, bin;y;AntiVirus + Turbo
+100;Verbatim;1MB;1993;11/03/1993;02/12/1988;dos;doc, pas, lst, bak, com, bin, p, msg;y;Projet Listral
+101;Verbatim;1MB;;;;;;n;Erreur montage
+102;Verbatim;1MB;;29/04/1995;01/10/1991;dos;pas, bak , sys;y;Fichiers trubo ?
+103;Verbatim;1MB;;17/06/1993;01/03/1985;dos;com, exe, sys, bin, msg, ttl, p,;y;Tetris + Unvirus
+104;Verbatim;1MB;1994;25/02/1995;25/02/1995;dos;pas;y;1 fichier turbo
+105;Verbatim;1MB;1993;26/02/1993;27/01/1980;dos;bat, sys, com, pas, bak, p, msg, bin;y;Fichiers turbo +Unvirus
+106;Verbatim;1MB;1993;08/03/1993;02/10/1989;dos;pas, bak, tpl, exe, tpu, lst;y;Turbo.exe
+107;Sony;1MB;1992;16/05/1992;01/03/1985;dos;pas, bak, com, msg;y;Fichiers turbo
+108;Sony;1MB;;;;;;n;
+109;Konica;1MB;1995;16/10/2000;11/03/1993;dos;dat, pas;y;
+110;Konica;1MB;1993;30/05/1995;21/02/1992;dos;exe, hlp, com, sys, pas, chr;y;
+111;Konica;1MB;;03/01/1980;18/06/1992;dos;exe, hlp, com, bin pas, chr;y;Projet Conjugaison
+112;Konica;1MB;;13/01/1992;17/05/1990;dos;wri, drw, bkp;y;Disquett Mac OS
+113;Konica;1MB;;05/01/1988;02/01/1988;dos;tpu, txt, exe, doc, txt, chr;y;Projet Traduction
+114;Konica;1MB;mars-91;01/01/1980;22/12/1986;dos;pas, com, lst;y;Projet
+115;PC LAND;1MB;;26/03/1993;04/04/1987;dos;tpu, txt, exe, doc, txt, chr;y;Projet Interpreteur
+116;PC LAND;1MB;;28/05/1993;28/05/1993;dos;pas, bak, lst;y;Projet interpreteur Listal
+117;NONAME;1MB;;01/03/1985;31/01/1992;dos;pas, bak lis, com, msg;y;Projet interpreteur Listal
+118;NONAME;1MB;;16/06/1993;01/01/1980;dos;pas, bak lis, com, msg;y;Projet Ploygone
+119;NONAME;1MB;;08/03/1993;01/01/1980;dos;exe, bin, com, sys, lst, bak, h, msg;y;Projet
+120;NONAME;1MB;;01/03/1985;01/01/1980;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;Projet
+121;NONAME;1MB;;01/01/1980;01/01/1980;dos;pas, bak;y;
+122;NONAME;1MB;;01/01/1980;16/02/1993;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;
+123;NONAME;1MB;04/05/1992;04/05/1992;02/12/1988;dos;;n;
+124;NONAME;1MB;;03/05/1991;01/01/1980;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;
+125;NONAME;1MB;;03/03/1991;01/01/1980;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;
+126;NONAME;1MB;;19/05/1993;01/01/1980;dos;tpu, txt, exe, doc, txt, chr;y;
+127;NONAME;1MB;;09/03/1993;01/01/1980;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;Projet alcool
+128;NONAME;1MB;;19/01/1993;01/03/1985;dos;exe, bin, com, sys, lst, bak, h, msg, pas;y;Projet interpreteur Listal
+129;NONAME;1MB;;01/08/1991;01/08/1991;dos;ico;y;icones
+130;NONAME;1MB;;15/11/1988;25/05/1992;dos;exe,pas, dat, tpl;y;
+131;NONAME;1MB;;15/11/1988;01/01/1980;dos;exe,com, dat, tpl;y;
+132;NONAME;1MB;;;;;;n;
+133;NONAME;1MB;;13/03/1993;20/12/1992;dos;pas, lis, var, sys, bak;y;Fichiers turbo
+134;NONAME;1MB;;20/02/1993;01/01/1980;dos;pas, txt, inf, exe;y;L2.exe
+135;NONAME;1MB;;29/06/1989;01/01/1980;dos;bak, exe, hlp, tpl, pas;y;Divers exos
+136;NONAME;1MB;;04/05/1992;28/04/1992;dos;pas, tpu, exe, bak;y;Interpix
+137;NONAME;1MB;06/05/1991;06/05/1991;15/01/1980;dos;txt, img, exe, lst, bak, tpu, bgi;y;Dessin, Tri, …
+138;NONAME;1MB;;14/05/1993;01/01/1980;dos;bak,bin, p, img, pas, com, dat;y;Fichiers turbo
+139;NONAME;1MB;1993;17/03/1993;01/01/1980;dos;bak,bin, p, img, pas, com, bat;y;Fichiers turbo
+140;NONAME;1MB;;03/03/1993;01/01/1980;dos;pas, txt, com, msg, lst, exe, bin, p;y;Fichiers Listal + Unvirus
+141;NONAME;1MB;1992;08/03/1993;01/01/1980;dos;pas, p, bin, msg, com, itx, bak, ico, exe, doc, pif, sys, hlp, cps;y;Logiciel Symantec + Fichiers Turbo
